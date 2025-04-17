@@ -9,8 +9,5 @@
   },
   "peerDependencies": {
     "typescript": "^5"
-  },
-  "dependencies": {
-    "@api/cielo": "file:.api/apis/cielo"
   }
 }
