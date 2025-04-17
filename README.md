@@ -167,7 +167,7 @@ Contribuições são bem-vindas\! Se você deseja ajudar a melhorar este SDK, si
 
 ## Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Crie um arquivo LICENSE se ainda não tiver).
+Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## Contato
 
