@@ -33,12 +33,13 @@ Usando npm:
 
 ```bash
 npm install @tucupy-tecnologia/cielo-ecommerce-sdk-unofficial
+```
 
 Usando yarn:
 
 ```bash
-yarn add cielo-ecommerce-sdk-unofficial
-
+yarn add @tucupy-tecnologia/cielo-ecommerce-sdk-unofficial
+```
 ## Configuração
 
 O SDK precisa das suas credenciais da Cielo (`MerchantId` e `MerchantKey`) e do ambiente desejado (`SANDBOX` ou `PRODUCTION`). É **altamente recomendado** usar variáveis de ambiente para armazenar suas credenciais, nunca as coloque diretamente no código.
